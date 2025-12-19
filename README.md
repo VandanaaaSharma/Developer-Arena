@@ -19,3 +19,19 @@ It demonstrates Java programming fundamentals including:
 2. Clone the repository
 3. Navigate to `src` folder
 4. Compile:
+javac project1.java
+
+5. Run:
+
+
+java project1
+
+
+## 🎯 Features
+- Add student details
+- View all students
+- Search student by ID
+- Input validation
+- Formatted output
+
+
